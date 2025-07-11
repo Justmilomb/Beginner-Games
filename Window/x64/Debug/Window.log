@@ -1,2 +1,3 @@
 ﻿  Window.c
+D:\WDHDD\Coding\Game\Window.c(84,1): warning C4715: 'WindowProcedure': not all control paths return a value
   Window.vcxproj -> D:\WDHDD\Coding\Game\x64\Debug\Window.exe
